@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "36ac936fbaba09c6ef55136f",
+  "owner": "ghc336199",
+  "repo": "page-a4595ead061a78c310779b90",
+  "title": "LSP",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a4595ead061a78c310779b90",
+      "a": "LSP",
+      "b": "2027官方最新地址导航",
+      "entity": "LSP",
+      "brand": "LSP",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c768caef88f89bbb0bacddd52d690ae2ff3fb3763d236e7948e056b6e9b0dc60",
+      "content": {
+        "primary_entity": "LSP",
+        "keyword1": "LSP",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器均有适配客户端，按桌面、移动或软路由场景选择对应版本，导入订阅后即可使用。",
+          "AI_CLOSING_TITLE": "LSP 加速器订阅选择",
+          "AI_CLOSING_TEXT": "根据常用设备数量和月流量挑选套餐，按客户端文档配置订阅即可开始使用。",
+          "AI_DESCRIPTION": "，LSP 海外加速器提供基础版、旗舰版与团队版三档订阅，月付可选 ¥15、¥35、¥85，年付价格为 ¥150、¥350、¥850。流量从每月 100GB 到 1000GB，在线设备数从 3 台到 20 台，旗舰版含 IPLC 专线与流媒体解锁，团队版面向多设备场景。可根据使用强度与设备数量对比后选择。",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个角度对比，能更快定位适合自己的套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻量浏览，旗舰版 300GB 与团队版 1000GB 适合多设备或高流量场景。",
+          "AI_FEATURE_TITLE_2": "按设备数选",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按常用设备数量选择可避免频繁切换。",
+          "AI_FEATURE_TITLE_3": "按线路选",
+          "AI_FEATURE_TEXT_3": "基础版使用普通线路节点池，旗舰版含 IPLC 专线，团队版提供 VIP 专属高带宽节点。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确认套餐与适配要求，再按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量从基础版、旗舰版或团队版中确定订阅方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备类型与系统版本是否在客户端支持范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，按客户端文档完成节点与线路设置。",
+          "AI_HERO_SUBTITLE": "多档套餐适配多设备加速",
+          "AI_HERO_INTRO": "LSP 海外加速器面向桌面、移动与团队多设备场景，提供基础版、旗舰版和团队版三档订阅，月流量与在线设备数逐级提升，可按使用强度灵活匹配。",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，支持 20 台设备",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150，旗舰版月付 ¥35、年付 ¥350，团队版月付 ¥85、年付 ¥850，按流量与设备数选择。",
+          "AI_VISUAL_TITLE": "LSP 海外加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "LSP 三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备并含 IPLC 专线；团队版每月 1000GB 流量、20 台设备且支持定制路由。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时使用多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "设备并发数按在线终端计算，同一设备上安装多个客户端通常只占用一个终端名额，但具体以客户端连接状态为准。",
+          "AI_FAQ_QUESTION_3": "年付和月付的差价有多大？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 相当于十个月月付费用，旗舰版年付 ¥350、团队版年付 ¥850 同样按十个月总额计算，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "升级套餐后流量和设备数会立即变化吗？",
+          "AI_FAQ_ANSWER_4": "套餐变更后新的流量额度与设备并发数一般随订阅周期生效，建议在续费节点进行升级以减少浪费。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量和 20 台设备并发，适合小型工作室、远程协作团队或需要定制路由规则的企业用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "9z3slg.cn",
+    "host": "9z3slg.cn"
+  },
+  "file_hashes": {
+    "index.html": "0211c1d4e0ae2c16e882ecd78e2cd6a8711ac41e4d917d9baeee8cfb337dc742",
+    "sitemap.xml": "e64178f306f8719f4075e63d09d3f16769d076c27fdd7ff2a90e736d81e7a329",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d08ea9c4722a882041a2d4d34f4dc1b8e08d75d6e03ac72c2a227e25d81bba20",
+    "robots.txt": "2835f2295c822d2d6a016f0cdd8bcedbcefb9e21a5573fd7ac4ab206150657f7",
+    "4acedbf5605f0638e10f84ed5f23fbbb.txt": "360920331ad01ec2328e6fd60bb17d3d863a37d239f50c071e53b4f8c442f431"
+  },
+  "revision": "d22fd10d02b9ebda8c5abe918d58b6888475be907468114e99992e011c3fb9de"
+}
